@@ -1,0 +1,11 @@
+{
+  "training_time_sec": 9568,
+  "training_time_min": 159.47,
+  "training_time_hms": "02:39:28",
+  "stopped_early": false,
+  "stopped_step": 20314,
+  "best_checkpoint_step": null,
+  "planned_max_steps": -1,
+  "device": "cuda:0",
+  "precision": "fp16"
+}

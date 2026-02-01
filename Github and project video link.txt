@@ -1,0 +1,8 @@
+Colab Notebook URL:
+https://colab.research.google.com/drive/19HmImujS3ir3lqMj3z7csKyIvFILvn25
+
+NLP-Yelp Restaurant Review Sentiment Analysis video presentation GoogleDrive URL :
+https://drive.google.com/drive/u/0/folders/1_J2HJfcpusFacHYKWui5LNm65H_mWTbG
+
+Git Repository URL:
+https://github.com/JayasriDhanapal/NLP-Prj_Sentiment-Analysis-on-Yelp-Restaurant-Reviews/upload/main
